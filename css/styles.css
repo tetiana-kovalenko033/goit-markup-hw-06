@@ -328,7 +328,7 @@ input {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url("/images/hero/dark-bg-mobile.jpg");
+    url("../images/hero/dark-bg-mobile.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -341,7 +341,7 @@ input {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url("/images/hero/dark-bg-mobile@2x.jpg");
+      url("../images/hero/dark-bg-mobile@2x.jpg");
   }
 }
 .hero-title {
