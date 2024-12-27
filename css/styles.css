@@ -390,7 +390,7 @@ input {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/hero/dark-bg-tablet.jpg);
+      url("../images/hero/dark-bg-tablet.jpg");
   }
   @media screen and (min-width: 768px) and (min-resolution: 192dpi) {
     .hero-section {
@@ -399,7 +399,7 @@ input {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(/images/hero/dark-bg-tablet@2x.jpg);
+        url("../images/hero/dark-bg-tablet@2x.jpg");
     }
   }
 
@@ -427,7 +427,7 @@ input {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/hero/people-office-desk.jpg);
+      url("../images/hero/people-office-desk.jpg");
   }
 }
 
@@ -438,7 +438,7 @@ input {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/hero/people-office-desk@2x.jpg);
+      url("../images/hero/people-office-desk@2x.jpg");
   }
 }
 .section {
